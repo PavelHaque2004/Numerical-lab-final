@@ -4,7 +4,8 @@
 using namespace std;
 int main()
 {
-    int n,x[100],y[100],i,j,xp,result=0,term;
+    double n,x[100],y[100],xp,result=0,term;
+    int i,j;
 
     cout<<"Enter data point ";
     cin>>n;
